@@ -92,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 - Preview
+
 ![](https://github.com/gzeinnumer/ShimmerExample/blob/master/preview/example1.gif)
 
 ---
