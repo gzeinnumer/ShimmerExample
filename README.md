@@ -1,5 +1,6 @@
 # ShimmerExample
 
+- depedencies
 ```gradle
 implementation 'com.facebook.shimmer:shimmer:0.4.0@aar'
 ```
@@ -89,6 +90,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+- Preview
+![](https://github.com/gzeinnumer/ShimmerExample/blob/master/preview/example1.gif)
 
 ---
 
